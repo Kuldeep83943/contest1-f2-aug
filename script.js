@@ -15,7 +15,7 @@ function PrintDeveloper() {
 
 function addData() {
   //Write your code here, just console.log
-  let New_Entry = { id: 4, name: "Dhoni", age: 40, profession: "Cricket" };
+  let New_Entry = { id: 4, name: "susan", age: 20, profession: "intern" };
   arr.push(New_Entry);
   console.log(arr);
 }
